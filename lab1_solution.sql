@@ -1,4 +1,4 @@
--- Lab 1: SQL (DDL + DML)
+-- Lab 1 solution
 -- Database: CollegeDB
 
 -- Part A: DDL
