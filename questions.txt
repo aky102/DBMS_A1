@@ -1,4 +1,4 @@
-DB Lab 1 – SQL Questions (DDL + DML)
+DB Lab 1 – SQL Questions (DDL+DML)
 
 Part A: DDL
 1. Create database CollegeDB
