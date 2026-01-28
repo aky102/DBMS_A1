@@ -1,0 +1,23 @@
+DB Lab 1 – SQL Questions (DDL + DML)
+
+Part A: DDL
+1. Create database CollegeDB
+2. Use CollegeDB
+3. Create Student table
+4. Create Course table
+5. Add City column
+6. Add Semester column
+7. Rename Phone to MobileNo
+8. Drop Course table
+
+Part B: DML
+9. Insert 5 records
+10. Display all records
+11. Display RollNo and Name
+12. Display CSE students
+13. Age > 20
+14. Update Dept
+15. Update City
+16. Increase Age
+17. Delete RollNo 105
+18. Delete all records
